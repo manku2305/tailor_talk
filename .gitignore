@@ -1,0 +1,11 @@
+# virtual environment
+venv/
+__pycache__/
+
+# secrets
+.env
+calendar_utils/credentials.json
+
+# cache or system files
+*.pyc
+.DS_Store
